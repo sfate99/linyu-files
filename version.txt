@@ -1,3 +1,3 @@
 main=1.0.8|林羽1.0.8.sh
-drv=7.9|林羽驱动7.9.sh
+drv=8.0|林羽驱动8.0.sh
 cfg=1.0|LinYuKernelConfig.ini
